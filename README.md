@@ -7,7 +7,9 @@
 ## Description
 GOOSE CD is an application disguised as a functional React Google Search application
 * Unsuspecting users will spend countless hours wasting their time trying to search for books - but will never get results
-* Hilarity ensues 
+* Hilarity ensues. You thought you could find your book SUCKAH!!!
+* 
+* ![SUCKAH](https://raw.githubusercontent.com/wattskimzey/googlesearch/master/rundagoogle/images/suckah.PNG)
 
 ## Motivation
 Attempting to finish bootcamp homework
