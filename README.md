@@ -2,7 +2,7 @@
 ![GOOSE CD](https://raw.githubusercontent.com/wattskimzey/googlesearch/master/rundagoogle/images/goose.jpg)
 
 # VIDEO WALK THROUGH
-[Feed your eyeballs](https://drive.google.com/file/d/1pQrqWTIJ8V88o5sW6bZLgx_thzCRBB4G/view).
+[Feed your eyeballs](https://drive.google.com/file/d/1FcKW60ed7A71q1VBRqaGl3YeT6kUufaF/view).
 
 # THE HEROKU BAIT AND SWITCH
 [Click here to search for your book.  It didn't work?  Must be something wrong on your end.  Try again.  Yesssss... just keep trying...](http://serene-journey-47947.herokuapp.com/).
